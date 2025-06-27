@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/713cd5a11be4496da6248edfb14dae28/artifacts
+end_time: 1751028881723
+entry_point_name: ''
+experiment_id: '920450314386730829'
+lifecycle_stage: active
+run_id: 713cd5a11be4496da6248edfb14dae28
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751028881659
+status: 3
+tags: []
+user_id: lh3594
