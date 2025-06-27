@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829
+creation_time: 1750982563221
+experiment_id: '920450314386730829'
+last_update_time: 1750982563221
+lifecycle_stage: active
+name: life_expectancy_regression

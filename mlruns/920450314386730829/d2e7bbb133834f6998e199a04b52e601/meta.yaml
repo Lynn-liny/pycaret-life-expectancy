@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/d2e7bbb133834f6998e199a04b52e601/artifacts
+end_time: 1751004960178
+entry_point_name: ''
+experiment_id: '920450314386730829'
+lifecycle_stage: active
+run_id: d2e7bbb133834f6998e199a04b52e601
+run_name: XGBoost_20250627_061558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751004958234
+status: 3
+tags: []
+user_id: lh3594

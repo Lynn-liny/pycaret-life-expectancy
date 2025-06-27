@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/4ca5d564fd0942e0849143c38efef514/artifacts
+end_time: 1750982664853
+entry_point_name: ''
+experiment_id: '920450314386730829'
+lifecycle_stage: active
+run_id: 4ca5d564fd0942e0849143c38efef514
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750982651772
+status: 3
+tags: []
+user_id: vscode

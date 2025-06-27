@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/add139d608814ac98954a1ba6c03aa7a/artifacts
+end_time: 1751002549428
+entry_point_name: ''
+experiment_id: '920450314386730829'
+lifecycle_stage: active
+run_id: add139d608814ac98954a1ba6c03aa7a
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751002530381
+status: 3
+tags: []
+user_id: lh3594

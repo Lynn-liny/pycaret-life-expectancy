@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/32e4d95f17564da59c373dd2e0c59e13/artifacts
+end_time: 1751026497590
+entry_point_name: ''
+experiment_id: '920450314386730829'
+lifecycle_stage: active
+run_id: 32e4d95f17564da59c373dd2e0c59e13
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751026497544
+status: 3
+tags: []
+user_id: lh3594

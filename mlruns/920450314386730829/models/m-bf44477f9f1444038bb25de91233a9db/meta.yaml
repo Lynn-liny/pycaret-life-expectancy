@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/models/m-bf44477f9f1444038bb25de91233a9db/artifacts
+creation_timestamp: 1750982999920
+experiment_id: '920450314386730829'
+last_updated_timestamp: 1750983002109
+model_id: m-bf44477f9f1444038bb25de91233a9db
+model_type: null
+name: linear_regression
+source_run_id: d34ac3561c6a44009cd35759d6c70ecf
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/models/m-be6e4f6bb12340e38e090dac3e12c33e/artifacts
+creation_timestamp: 1751002547559
+experiment_id: '920450314386730829'
+last_updated_timestamp: 1751002549421
+model_id: m-be6e4f6bb12340e38e090dac3e12c33e
+model_type: null
+name: random_forest_model
+source_run_id: add139d608814ac98954a1ba6c03aa7a
+status: 2
+status_message: null

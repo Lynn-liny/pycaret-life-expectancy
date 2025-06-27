@@ -1,0 +1,50 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Year",
+      "Status",
+      "Adult Mortality",
+      "infant deaths",
+      "Alcohol",
+      "percentage expenditure",
+      "Hepatitis B",
+      "Measles ",
+      " BMI ",
+      "under-five deaths ",
+      "Polio",
+      "Total expenditure",
+      "Diphtheria ",
+      " HIV/AIDS",
+      "GDP",
+      "Population",
+      " thinness  1-19 years",
+      " thinness 5-9 years",
+      "Income composition of resources",
+      "Schooling"
+    ],
+    "data": [
+      [
+        -0.45378520205813044,
+        -0.39948152927010183,
+        0.558788363165658,
+        -0.2584584145851035,
+        2.0523002802650767,
+        -0.19801113675746532,
+        0.7412837281395573,
+        -0.20558542017811587,
+        0.9689939435126721,
+        -0.2630262937668329,
+        0.597677438282877,
+        0.20132666191225165,
+        0.692857280867034,
+        -0.31731610696682594,
+        -0.1628029273059043,
+        -0.18418716389623904,
+        -0.5767018025810552,
+        -0.5418636638545329,
+        0.4996396829161933,
+        0.899464666218307
+      ]
+    ]
+  }
+}

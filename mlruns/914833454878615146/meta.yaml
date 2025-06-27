@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/pycaret-life-expectancy/mlruns/914833454878615146
+creation_time: 1750985378340
+experiment_id: '914833454878615146'
+last_update_time: 1750985378340
+lifecycle_stage: active
+name: pycaret_life_expectancy

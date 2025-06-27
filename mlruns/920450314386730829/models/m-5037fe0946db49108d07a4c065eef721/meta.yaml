@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/pycaret-life-expectancy/mlruns/920450314386730829/models/m-5037fe0946db49108d07a4c065eef721/artifacts
+creation_timestamp: 1751004954735
+experiment_id: '920450314386730829'
+last_updated_timestamp: 1751004956610
+model_id: m-5037fe0946db49108d07a4c065eef721
+model_type: null
+name: model
+source_run_id: fc2cb61d03984f4385acec80a621b788
+status: 2
+status_message: null
